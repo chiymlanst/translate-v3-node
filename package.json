@@ -1,0 +1,14 @@
+{
+    "name": "translate-v3",
+    "version": "1.0.0",
+    "main": "./index.js",
+    "bin": {
+        "translate": "./index.js"
+    },
+    "dependencies": {
+        "translate-google": "^1.5.0",
+        "baidu-translate-api": "^0.4.3",
+        "bing-translate-api": "^2.5.0",
+        "change-case": "^4.1.2"
+    }
+}
